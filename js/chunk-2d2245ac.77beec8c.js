@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d2245ac"],{e07b:function(e){e.exports=JSON.parse('{"name":"lc-plugin-demo","title":"扩展组件示例","version":"1.0.0","_linVersion":"0.0.1-alpha.3","description":"扩展组件示例,demo文件","author":"igeekfan","dependencies":{},"devDependencies":{}}')}}]);
